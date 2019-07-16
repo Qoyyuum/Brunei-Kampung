@@ -1,0 +1,895 @@
+{
+    "Brunei-Muara": [
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "Sungai Kebun",
+            "Kampung": "Setia 'A'"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "Sungai Kebun",
+            "Kampung": "Setia 'B'"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "Sungai Kebun",
+            "Kampung": "Sungai Kebun"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "Sungai Kebun",
+            "Kampung": "Bolkiah 'A'"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "Sungai Kebun",
+            "Kampung": "Bolkiah 'B'"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "Sungai Kebun",
+            "Kampung": "Sungai Siamas & Ujong Kelinik"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "Saba",
+            "Kampung": "SABA DARAT 'B'"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "Saba",
+            "Kampung": "SABA TENGAH & SABA UJONG"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "Saba",
+            "Kampung": "SABA DARAT 'A' & SABA LAUT"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "PERAMU",
+            "Kampung": "PERAMU"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "PERAMU",
+            "Kampung": "PEKILONG MUARA & SETIA PAHLAWAN"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "PERAMU",
+            "Kampung": "BAKUT BERUMPUT, BAKUT PENGIRAN SIRAJA MUDA 'A' & 'B'"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "PERAMU",
+            "Kampung": "LURONG SIKUNA"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BURONG PINGAI AYER",
+            "Kampung": "SUNGAI PANDAN 'A' & 'B'"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BURONG PINGAI AYER",
+            "Kampung": "PANDAI BESI 'A' & 'B'"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BURONG PINGAI AYER",
+            "Kampung": "LURONG DALAM"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BURONG PINGAI AYER",
+            "Kampung": "PEKAN LAMA & PENGIRAN SETIA NEGARA"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BURONG PINGAI AYER",
+            "Kampung": "BURONG PINGAI AYER & SUNGAI ASAM"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "TAMOI",
+            "Kampung": "TAMOI TENGAH & TAMOI UJONG"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "TAMOI",
+            "Kampung": "PENGIRAN TAJUDDIN HITAM & PENGIRAN KERMA INDERA LAMA"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "TAMOI",
+            "Kampung": "PENGIRAN BENDAHARA LAMA"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "TAMOI",
+            "Kampung": "UJONG BUKIT & LIMBONGAN"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "SUNGAI KEDAYAN",
+            "Kampung": "SUNGAI KEDAYAN"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "LUMAPAS",
+            "Kampung": "LUMAPAS 'A'"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "LUMAPAS",
+            "Kampung": "LUMAPAS 'B'"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "LUMAPAS",
+            "Kampung": "PUTAT"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "LUMAPAS",
+            "Kampung": "KASAT"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "LUMAPAS",
+            "Kampung": "LUPAK LUAS, TARAB BAU & BUANG SAKAR"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KIANGGEH",
+            "Kampung": "KIANGGEH"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KOTA BATU",
+            "Kampung": "BELIMBING"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KOTA BATU",
+            "Kampung": "MENUNGGOL"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KOTA BATU",
+            "Kampung": "PULAU BARU-BARU, SUNGAI BUNGA & TANJONG KINDANA"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KOTA BATU",
+            "Kampung": "DATO GANDI"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KOTA BATU",
+            "Kampung": "PUDAK"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KOTA BATU",
+            "Kampung": "SUNGAI LAMPAI & PINTU MALIM"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KOTA BATU",
+            "Kampung": "SUNGAI MATAN"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KOTA BATU",
+            "Kampung": "SUNGAI BESAR"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KOTA BATU",
+            "Kampung": "SERDANG"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KOTA BATU",
+            "Kampung": "SUNGAI BELUKUT"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KOTA BATU",
+            "Kampung": "KOTA BATU"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KOTA BATU",
+            "Kampung": "SUBOK"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KOTA BATU",
+            "Kampung": "PELAMBAYAN"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "MENTIRI",
+            "Kampung": "MENTIRI"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "MENTIRI",
+            "Kampung": "SUNGAI BULOH"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "MENTIRI",
+            "Kampung": "BATU MARANG"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "MENTIRI",
+            "Kampung": "KAWASAN 1 RANCANGAN PERUMAHAN NEGARA MENTIRI"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "MENTIRI",
+            "Kampung": "KAWASAN 2 RANCANGAN PERUMAHAN NEGARA MENTIRI"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "MENTIRI",
+            "Kampung": "TANAH JAMBU & SALAR"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "SERASA",
+            "Kampung": "KAPOK"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "SERASA",
+            "Kampung": "SERASA & PERPINDAHAN SERASA"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "SERASA",
+            "Kampung": "MASJID LAMA, PEKAN MUARA, SABUN & PELUMPONG"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'A'",
+            "Kampung": "LAMBAK 'A'"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'A'",
+            "Kampung": "LAMBAK 'B'"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'A'",
+            "Kampung": "SERUSOP"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'A'",
+            "Kampung": "ORANG KAYA BESAR IMAS & PULAIE"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'A'",
+            "Kampung": "DELIMA SATU"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'A'",
+            "Kampung": "ANGGEREK DESA & PANCHA DELIMA"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'A'",
+            "Kampung": "JAYA SETIA & JAYA BAKTI"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'A'",
+            "Kampung": "BURONG PINGGAI BERAKAS"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'A'",
+            "Kampung": "SKIM TANAH KURNIA RAKYAT JATI LAMBAK KIRI"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'B'",
+            "Kampung": "SALAMBIGAR & SUNGAI HANCHING"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'B'",
+            "Kampung": "MANGGIS I & II"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'B'",
+            "Kampung": "MADANG"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'B'",
+            "Kampung": "SUNGAI TILONG"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'B'",
+            "Kampung": "SUNGAI AKAR"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'B'",
+            "Kampung": "KAWASAN 1 RANCANGAN PERUMAHAN NEGARA LAMBAK KANAN"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'B'",
+            "Kampung": "KAWASAN 2 RANCANGAN PERUMAHAN NEGARA LAMBAK KANAN"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'B'",
+            "Kampung": "KAWASAN 3 RANCANGAN PERUMAHAN NEGARA LAMBAK KANAN"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'B'",
+            "Kampung": "KAWASAN 4 RANCANGAN PERUMAHAN NEGARA LAMBAK KANAN"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "BERAKAS 'B'",
+            "Kampung": "KAWASAN 5 RANCANGAN PERUMAHAN NEGARA LAMBAK KANAN"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'A'",
+            "Kampung": "TUNGKU & KATOK"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'A'",
+            "Kampung": "RIMBA"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'A'",
+            "Kampung": "KAWASAN 1 RANCANGAN PERUMAHAN NEGARA RIMBA"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'A'",
+            "Kampung": "KAWASAN 2 RANCANGAN PERUMAHAN NEGARA RIMBA"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'A'",
+            "Kampung": "KAWASAN 3 RANCANGAN PERUMAHAN NEGARA RIMBA"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'A'",
+            "Kampung": "KAWASAN 4 RANCANGAN PERUMAHAN NEGARA RIMBA"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'A'",
+            "Kampung": "KAWASAN 5 RANCANGAN PERUMAHAN NEGARA RIMBA"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'A'",
+            "Kampung": "SKIM TANAH KURNIA RAKYAT JATI RIMBA"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'A'",
+            "Kampung": "KAWASAN 1 PERUMAHAN SKIM TANAH KURNIA RAKYAT JATI TUNGKU"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'A'",
+            "Kampung": "KAWASAN 2 PERUMAHAN SKIM TANAH KURNIA RAKYAT JATI TUNGKU"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'A'",
+            "Kampung": "KAWASAN 3 PERUMAHAN SKIM TANAH KURNIA RAKYAT JATI TUNGKU"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'A'",
+            "Kampung": "KAWASAN 5 PERUMAHAN SKIM TANAH KURNIA RAKYAT JATI TUNGKU"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'B'",
+            "Kampung": "BERIBI"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'B'",
+            "Kampung": "KIULAP"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'B'",
+            "Kampung": "KIARONG"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'B'",
+            "Kampung": "MATA-MATA"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'B'",
+            "Kampung": "PERPINDAHAN MATA-MATA"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'B'",
+            "Kampung": "MENGLAIT"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "GADONG 'B'",
+            "Kampung": "GADONG & PENGKALAN GADONG"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KILANAS",
+            "Kampung": "KILANAS & JANGSAK"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KILANAS",
+            "Kampung": "TASEK MERADUN & BUNUT"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KILANAS",
+            "Kampung": "BUNUT PERPINDAHAN"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KILANAS",
+            "Kampung": "TANJONG BUNUT"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KILANAS",
+            "Kampung": "MADEWA & TELANAI"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "KILANAS",
+            "Kampung": "BENGKURONG & SINARUBAI"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "SENGKURONG",
+            "Kampung": "TANJONG NANGKA"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "SENGKURONG",
+            "Kampung": "KULAPIS"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "SENGKURONG",
+            "Kampung": "MULAUT"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "SENGKURONG",
+            "Kampung": "LUGU & KATIMAHAR"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "SENGKURONG",
+            "Kampung": "JERUDONG"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "SENGKURONG",
+            "Kampung": "SENGKURONG 'A'"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "SENGKURONG",
+            "Kampung": "SENGKURONG 'B'"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "PENGKALAN BATU",
+            "Kampung": "PENGKALAN BATU"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "PENGKALAN BATU",
+            "Kampung": "PANCHUR MURAI"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "PENGKALAN BATU",
+            "Kampung": "WASAN"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "PENGKALAN BATU",
+            "Kampung": "LIMAU MANIS"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "PENGKALAN BATU",
+            "Kampung": "MASIN"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "PENGKALAN BATU",
+            "Kampung": "BEBULOH"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "PENGKALAN BATU",
+            "Kampung": "BATONG"
+        },
+        {
+            "District": "Brunei-Muara",
+            "Mukim": "PENGKALAN BATU",
+            "Kampung": "JUNJONGAN"
+        }
+    ],
+    "Tutong": [
+        {
+            "District": "Tutong",
+            "Mukim": "TELISAI",
+            "Kampung": "TELISAI"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "TELISAI",
+            "Kampung": "DANAU"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "TELISAI",
+            "Kampung": "BUKIT BERUANG & PERPINDAHAN"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "RAMBAI",
+            "Kampung": "RAMBAI"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "RAMBAI",
+            "Kampung": "MERIMBUN"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "RAMBAI",
+            "Kampung": "BENUTAN"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "PEKAN TUTONG",
+            "Kampung": "PANCHOR"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "PEKAN TUTONG",
+            "Kampung": "PENANJONG"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "PEKAN TUTONG",
+            "Kampung": "SENGKARAI"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "PEKAN TUTONG",
+            "Kampung": "PENABAI & KUALA TUTONG"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "LAMUNIN",
+            "Kampung": "LAMUNIN"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "LAMUNIN",
+            "Kampung": "LAYONG"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "LAMUNIN",
+            "Kampung": "BUKIT SULANG & MENENGAH"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "LAMUNIN",
+            "Kampung": "PANCHONG"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "KERIAM",
+            "Kampung": "KERIAM"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "KERIAM",
+            "Kampung": "SINAUT"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "KERIAM",
+            "Kampung": "KUPANG"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "KERIAM",
+            "Kampung": "SUNGAI KELUGOS"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "KERIAM",
+            "Kampung": "LUAGAN DUDOK"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "KERIAM",
+            "Kampung": "BUKIT PANGGAL"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "KIUDANG",
+            "Kampung": "KIUDANG"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "KIUDANG",
+            "Kampung": "BIRAU"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "KIUDANG",
+            "Kampung": "BAKIAU & PENGKALAN MAU"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "KIUDANG",
+            "Kampung": "BATANG MITUS & KEBIA"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "KIUDANG",
+            "Kampung": "PADNUNOK"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "TANJONG MAYA",
+            "Kampung": "TANJONG MAYA"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "TANJONG MAYA",
+            "Kampung": "PENAPAR"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "TANJONG MAYA",
+            "Kampung": "LUBOK PULAU"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "TANJONG MAYA",
+            "Kampung": "BUKIT UDAL"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "UKONG",
+            "Kampung": "UKONG"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "UKONG",
+            "Kampung": "BUKIT"
+        },
+        {
+            "District": "Tutong",
+            "Mukim": "UKONG",
+            "Kampung": "LONG MAYAN"
+        }
+    ],
+    "Belait": [
+        {
+            "District": "Belait",
+            "Mukim": "KUALA BELAIT",
+            "Kampung": "PEKAN BELAIT"
+        },
+        {
+            "District": "Belait",
+            "Mukim": "KUALA BELAIT",
+            "Kampung": "PANDAN 'A'"
+        },
+        {
+            "District": "Belait",
+            "Mukim": "KUALA BELAIT",
+            "Kampung": "PANDAN 'B'"
+        },
+        {
+            "District": "Belait",
+            "Mukim": "KUALA BELAIT",
+            "Kampung": "PANDAN 'C'"
+        },
+        {
+            "District": "Belait",
+            "Mukim": "KUALA BELAIT",
+            "Kampung": "SUNGAI TERABAN"
+        },
+        {
+            "District": "Belait",
+            "Mukim": "KUALA BELAIT",
+            "Kampung": "MUMONG"
+        },
+        {
+            "District": "Belait",
+            "Mukim": "SERIA",
+            "Kampung": "SKIM TANAH KURNIA RAKYAT JATI LORONG TIGA SELATAN SERIA"
+        },
+        {
+            "District": "Belait",
+            "Mukim": "SERIA",
+            "Kampung": "PEKAN SERIA"
+        },
+        {
+            "District": "Belait",
+            "Mukim": "LIANG",
+            "Kampung": "SUNGAI LIANG"
+        },
+        {
+            "District": "Belait",
+            "Mukim": "LIANG",
+            "Kampung": "LUMUT I"
+        },
+        {
+            "District": "Belait",
+            "Mukim": "LIANG",
+            "Kampung": "LUMUT II"
+        },
+        {
+            "District": "Belait",
+            "Mukim": "BUKIT SAWAT",
+            "Kampung": "MERANGKING"
+        },
+        {
+            "District": "Belait",
+            "Mukim": "BUKIT SAWAT",
+            "Kampung": "BUKIT SAWAT"
+        },
+        {
+            "District": "Belait",
+            "Mukim": "LABI",
+            "Kampung": "LABI I"
+        },
+        {
+            "District": "Belait",
+            "Mukim": "LABI",
+            "Kampung": "LABI II"
+        },
+        {
+            "District": "Belait",
+            "Mukim": "SUKANG",
+            "Kampung": "SUKANG"
+        },
+        {
+            "District": "Belait",
+            "Mukim": "MELILAS",
+            "Kampung": "MELILAS"
+        }
+    ],
+    "Temburong": [
+        {
+            "District": "Temburong",
+            "Mukim": "BANGAR",
+            "Kampung": "MENENGAH"
+        },
+        {
+            "District": "Temburong",
+            "Mukim": "BANGAR",
+            "Kampung": "BELINGOS"
+        },
+        {
+            "District": "Temburong",
+            "Mukim": "BANGAR",
+            "Kampung": "PUNI"
+        },
+        {
+            "District": "Temburong",
+            "Mukim": "BANGAR",
+            "Kampung": "BATANG TUAU"
+        },
+        {
+            "District": "Temburong",
+            "Mukim": "AMO",
+            "Kampung": "SELANGAN, PARIT & BIANG MENENGAH"
+        },
+        {
+            "District": "Temburong",
+            "Mukim": "AMO",
+            "Kampung": "AMO"
+        },
+        {
+            "District": "Temburong",
+            "Mukim": "AMO",
+            "Kampung": "SUMBILING BARU"
+        },
+        {
+            "District": "Temburong",
+            "Mukim": "AMO",
+            "Kampung": "SIBUT"
+        },
+        {
+            "District": "Temburong",
+            "Mukim": "LABU",
+            "Kampung": "LABU ESTATE"
+        },
+        {
+            "District": "Temburong",
+            "Mukim": "LABU",
+            "Kampung": "PIASAU-PIASAU"
+        },
+        {
+            "District": "Temburong",
+            "Mukim": "LABU",
+            "Kampung": "SENUKOH"
+        },
+        {
+            "District": "Temburong",
+            "Mukim": "BATU APOI",
+            "Kampung": "BATU APOI"
+        },
+        {
+            "District": "Temburong",
+            "Mukim": "BATU APOI",
+            "Kampung": "TANJONG BUNGAR"
+        },
+        {
+            "District": "Temburong",
+            "Mukim": "BATU APOI",
+            "Kampung": "SELAPON"
+        },
+        {
+            "District": "Temburong",
+            "Mukim": "BOKOK",
+            "Kampung": "BOKOK"
+        },
+        {
+            "District": "Temburong",
+            "Mukim": "BOKOK",
+            "Kampung": "RATAIE"
+        },
+        {
+            "District": "Temburong",
+            "Mukim": "BOKOK",
+            "Kampung": "BELAIS & BUDA-BUDA"
+        },
+        {
+            "District": "Temburong",
+            "Mukim": "BOKOK",
+            "Kampung": "LEPONG BARU"
+        }
+    ]
+}
