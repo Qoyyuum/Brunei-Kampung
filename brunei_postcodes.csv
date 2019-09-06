@@ -1,0 +1,505 @@
+Number,District,Mukim,Kampong,Code
+95,Brunei-Muara,Daerah Brunei Dan Muara,Peti Surat 01 hingga 500,BS8670
+97,Brunei-Muara,Daerah Brunei Dan Muara,Peti Surat 1001 hingga 1500,BS8672
+98,Brunei-Muara,Daerah Brunei Dan Muara,Peti Surat 1501 hingga 2000,BS8673
+99,Brunei-Muara,Daerah Brunei Dan Muara,Peti Surat 2001 hingga 2500,BS8674
+100,Brunei-Muara,Daerah Brunei Dan Muara,Peti Surat 2501,BS8675
+96,Brunei-Muara,Daerah Brunei Dan Muara,Peti Surat 501 hingga 1000,BS8671
+107,Brunei-Muara,Daerah Brunei Dan Muara,Peti Surat Persendirian (Pejabat Pos Anggerek Desa),BB3713
+102,Brunei-Muara,Daerah Brunei Dan Muara,Peti Surat Persendirian (Pejabat Pos Gadong),BE3978
+108,Brunei-Muara,Daerah Brunei Dan Muara,Peti Surat Persendirian (Pejabat Pos Limau Manis),BH2323
+103,Brunei-Muara,Daerah Brunei Dan Muara,Peti Surat Persendirian (Pejabat Pos Mata-Mata),BE1976
+106,Brunei-Muara,Daerah Brunei Dan Muara,Peti Surat Persendirian (Pejabat Pos Muara),BT1128
+101,Brunei-Muara,Daerah Brunei Dan Muara,Peti Surat Persendirian (Pejabat Pos Pusat Memproses Mel),BS3577
+105,Brunei-Muara,Daerah Brunei Dan Muara,Peti Surat Persendirian (Pejabat Pos Salambigar),BC1515
+109,Brunei-Muara,Daerah Brunei Dan Muara,Peti Surat Persendirian (Pejabat Pos Sengkurong),BG1121
+104,Brunei-Muara,Daerah Brunei Dan Muara,Peti Surat Persendirian (Pejabat Pos Seri Komplek),BA1779
+4,Brunei-Muara,Jabatan Perdana Menteri,Jabatan Audit,BB3910
+5,Brunei-Muara,Jabatan Perdana Menteri,Jabatan Biro Kawalan Narkotik,BE2110
+8,Brunei-Muara,Jabatan Perdana Menteri,Jabatan Biro Mencegah Rasuah,BB3510
+12,Brunei-Muara,Jabatan Perdana Menteri,Jabatan Keselamatan Dalam Negeri,BA1910
+6,Brunei-Muara,Jabatan Perdana Menteri,Jabatan Penerangan,BB3510
+10,Brunei-Muara,Jabatan Perdana Menteri,Jabatan Perkhidmatan Awam,BB3510
+13,Brunei-Muara,Jabatan Perdana Menteri,Jabatan Perkhidmatan Pengurusan,BB3910
+9,Brunei-Muara,Jabatan Perdana Menteri,Majlis-Majlis Mesyuarat Negara,BS8610
+16,Brunei-Muara,Jabatan Perdana Menteri,Mufti Kerajaan Brunei,BS8510
+7,Brunei-Muara,Jabatan Perdana Menteri,Polis Di Raja Brunei,BE1710
+17,Brunei-Muara,Jabatan Perdana Menteri,Pusat Tahanan,BG3110
+11,Brunei-Muara,Jabatan Perdana Menteri,Radio Televisyen Brunei,BS8610
+15,Brunei-Muara,Jabatan Perdana Menteri,Suruhanjaya Perkhidmatan Awan,BB3510
+14,Brunei-Muara,Jabatan Perdana Menteri,Unit Petroleum,BB3910
+35,Brunei-Muara,Kementerian Hal Ehwal Dalam Negeri,Jabatan Daerah Brunei Muara,BB3510
+18,Brunei-Muara,Kementerian Pertahanan,Kementerian Pertahanan,BB3510
+148,Brunei-Muara,Mukim Berakas A,Kampong Anggerek Desa,BB3713
+146,Brunei-Muara,Mukim Berakas A,Kampong Burong Pinggai Berakas,BB3313
+145,Brunei-Muara,Mukim Berakas A,Kampong Jaya Bakti,BB3113
+144,Brunei-Muara,Mukim Berakas A,Kampong Jaya Setia,BB2713
+,Brunei-Muara,Mukim Berakas A,Kampong Lambak 'A',BB1314
+,Brunei-Muara,Mukim Berakas A,Kampong Lambak 'B',BB1714
+136,Brunei-Muara,Mukim Berakas A,Kampong Lambak Kiri ,BB1214
+150,Brunei-Muara,Mukim Berakas A,Kampong Orang Kaya Besar Imas,BB4113
+152,Brunei-Muara,Mukim Berakas A,Kampong Pancha Delima,BB4513
+154,Brunei-Muara,Mukim Berakas A,Kampong Pengiran Siraja Muda Delima Satu,BB5113
+151,Brunei-Muara,Mukim Berakas A,Kampong Pulaie,BB4313
+142,Brunei-Muara,Mukim Berakas A,Kampong Serusop,BB2313
+140,Brunei-Muara,Mukim Berakas A,Kampong Terunjing ,BB1514
+,Brunei-Muara,Mukim Berakas A,Kawasan Jabatan & Perumahan Kerajaan,BB3513
+143,Brunei-Muara,Mukim Berakas A,Kawasan Lapangan Terbang Antarabangsa,BB2513
+135,Brunei-Muara,Mukim Berakas A,STKRJ Lambak Kiri,BB1114
+165,Brunei-Muara,Mukim Berakas B,Kampog Sungai Tilong,BC3315
+168,Brunei-Muara,Mukim Berakas B,Kampong Madang,BC3715
+157,Brunei-Muara,Mukim Berakas B,Kampong Salambigar,BC1515
+170,Brunei-Muara,Mukim Berakas B,Kampong Sungai Akar,BC4115
+159,Brunei-Muara,Mukim Berakas B,Kampong Sungai Hanching,BC2115
+158,Brunei-Muara,Mukim Berakas B,Kampong Sungai Orok,BC1715
+167,Brunei-Muara,Mukim Berakas B,Kanpong Manggis ,BC3615
+160,Brunei-Muara,Mukim Berakas B,Perumahan Negara Lambak Kanan Kawasan 1,BC2315
+161,Brunei-Muara,Mukim Berakas B,Perumahan Negara Lambak Kanan Kawasan 2,BC2515
+162,Brunei-Muara,Mukim Berakas B,Perumahan Negara Lambak Kanan Kawasan 3,BC2715
+163,Brunei-Muara,Mukim Berakas B,Perumahan Negara Lambak Kanan Kawasan 4,BC2915
+164,Brunei-Muara,Mukim Berakas B,Perumahan Negara Lambak Kanan Kawasan 5,BC3115
+268,Brunei-Muara,Mukim Burong Pinggai Ayer,Kampong Burong Pinggai Ayer,BM1126
+269,Brunei-Muara,Mukim Burong Pinggai Ayer,Kampong Lurong Dalam,BM1326
+,Brunei-Muara,Mukim Burong Pinggai Ayer,Kampong Pandai Besi 'A',BM1526
+,Brunei-Muara,Mukim Burong Pinggai Ayer,Kampong Pandai Besi 'B',BM1726
+275,Brunei-Muara,Mukim Burong Pinggai Ayer,Kampong Pekan Lama,BM2526
+274,Brunei-Muara,Mukim Burong Pinggai Ayer,Kampong Pengiran Setia Negara,BM2326
+,Brunei-Muara,Mukim Burong Pinggai Ayer,Kampong Sungai Pandan 'A',BM1926
+,Brunei-Muara,Mukim Burong Pinggai Ayer,Kampong Sungai Pandan 'B',BM2126
+193,Brunei-Muara,Mukim Gadong A,Kampong Katok,BE2319
+197,Brunei-Muara,Mukim Gadong A,Kampong Rimba dan STKRJ Rimba,BE3119
+192,Brunei-Muara,Mukim Gadong A,Kampong Tungku,BE2119
+198,Brunei-Muara,Mukim Gadong A,Perumahan Negara Rimba Kawasan 1,BE3319
+1607,Brunei-Muara,Mukim Gadong A,Perumahan Negara Rimba Kawasan 2,BE3419
+199,Brunei-Muara,Mukim Gadong A,Perumahan Negara Rimba Kawasan 3,BE3519
+200,Brunei-Muara,Mukim Gadong A,Perumahan Negara Rimba Kawasan 4,BE3619
+1606,Brunei-Muara,Mukim Gadong A,Perumahan Negara Rimba Kawasan 5,BE3819
+194,Brunei-Muara,Mukim Gadong A,STKRJ Tungku Kawasan 1,BE2519
+1609,Brunei-Muara,Mukim Gadong A,STKRJ Tungku Kawasan 2,BE2719
+1608,Brunei-Muara,Mukim Gadong A,STKRJ Tungku Kawasan 3,BE2919
+187,Brunei-Muara,Mukim Gadong B,Kampong Beribi,BE1118
+188,Brunei-Muara,Mukim Gadong B,Kampong Kiarong,BE1318
+189,Brunei-Muara,Mukim Gadong B,Kampong Kiulap,BE1518
+190,Brunei-Muara,Mukim Gadong B,Kampong Mata-Mata,BE1718
+202,Brunei-Muara,Mukim Gadong B,Kampong Menglait ,BE3919
+201,Brunei-Muara,Mukim Gadong B,Kampong Pengkalan Gadong,BE3719
+191,Brunei-Muara,Mukim Gadong B,Perpindahan Mata-Mata,BE1918
+1605,Brunei-Muara,Mukim Gadong B,STKRJ Mata-Mata Kawasan 1,BE4119
+1604,Brunei-Muara,Mukim Gadong B,STKRJ Mata-Mata Kawasan 2,BE4319
+1603,Brunei-Muara,Mukim Gadong B,STKRJ Mata-Mata Kawasan 3,BE4519
+290,Brunei-Muara,Mukim Kampong Peramu,Kampong Bakut Berumput,BP2326
+287,Brunei-Muara,Mukim Kampong Peramu,Kampong Bakut Siraja Muda A,BP1726
+288,Brunei-Muara,Mukim Kampong Peramu,Kampong Bakut Siraja Muda B,BP1926
+289,Brunei-Muara,Mukim Kampong Peramu,Kampong Lurong Sekuna,BP2126
+285,Brunei-Muara,Mukim Kampong Peramu,Kampong Pekilong Muara,BP1326
+284,Brunei-Muara,Mukim Kampong Peramu,Kampong Peramu,BP1126
+286,Brunei-Muara,Mukim Kampong Peramu,Kampong Setia Pahlawan Lama,BP1526
+126,Brunei-Muara,Mukim Kianggeh,Kampong Berangan,BA1111
+1615,Brunei-Muara,Mukim Kianggeh,Kampong Kianggeh,BA1211
+128,Brunei-Muara,Mukim Kianggeh,Kampong Kumbang Pasang,BA1511
+130,Brunei-Muara,Mukim Kianggeh,Kampong Parit ,BA1912
+1614,Brunei-Muara,Mukim Kianggeh,Kampong Pusar Ulak,BA1411
+129,Brunei-Muara,Mukim Kianggeh,Kampong Tasek Lama,BA1611
+131,Brunei-Muara,Mukim Kianggeh,Kampong Tumasek,BA2112
+127,Brunei-Muara,Mukim Kianggeh,Kampong Tungkadeh,BA1311
+123,Brunei-Muara,Mukim Kianggeh,Kawasan Pusat Bandar,BS8611
+208,Brunei-Muara,Mukim Kilanas,Kampong Bengkurong,BF1920
+205,Brunei-Muara,Mukim Kilanas,Kampong Bunut,BF1320
+207,Brunei-Muara,Mukim Kilanas,Kampong Burong Lepas,BF1720
+212,Brunei-Muara,Mukim Kilanas,Kampong Jangsak,BF2720
+211,Brunei-Muara,Mukim Kilanas,Kampong Kilanas,BF2520
+204,Brunei-Muara,Mukim Kilanas,Kampong Medewa,BF1120
+209,Brunei-Muara,Mukim Kilanas,Kampong Sinarubai,BF2120
+213,Brunei-Muara,Mukim Kilanas,Kampong Tanjong Bunut,BF2920
+206,Brunei-Muara,Mukim Kilanas,Kampong Tasek Meradun,BF1520
+178,Brunei-Muara,Mukim Kota Batu,Kampong Belimbing,BD2917
+172,Brunei-Muara,Mukim Kota Batu,Kampong Dato Gandi,BD1717
+171,Brunei-Muara,Mukim Kota Batu,Kampong Kota Batu,BD1517
+1610,Brunei-Muara,Mukim Kota Batu,Kampong Mengkubau,BD4717
+185,Brunei-Muara,Mukim Kota Batu,Kampong Menunggol,BD4317
+175,Brunei-Muara,Mukim Kota Batu,Kampong Pelambayan,BD2317
+1612,Brunei-Muara,Mukim Kota Batu,Kampong Pintu Malim,BD1317
+181,Brunei-Muara,Mukim Kota Batu,Kampong Pudak,BD3517
+186,Brunei-Muara,Mukim Kota Batu,Kampong Pulau Baru-Baru dan Berbunut,BD4517
+184,Brunei-Muara,Mukim Kota Batu,Kampong Riong,BD4117
+174,Brunei-Muara,Mukim Kota Batu,Kampong Serdang,BD2117
+177,Brunei-Muara,Mukim Kota Batu,Kampong Subok,BD2717
+1611,Brunei-Muara,Mukim Kota Batu,Kampong Sungai Belukut,BD2217
+176,Brunei-Muara,Mukim Kota Batu,Kampong Sungai Besar,BD2517
+180,Brunei-Muara,Mukim Kota Batu,Kampong Sungai Bunga,BD3317
+1613,Brunei-Muara,Mukim Kota Batu,Kampong Sungai Lampai,BD1117
+173,Brunei-Muara,Mukim Kota Batu,Kampong Sungai Matan,BD1917
+179,Brunei-Muara,Mukim Kota Batu,Perpindahan Tanjong Cendana,BD3117
+243,Brunei-Muara,Mukim Lumapas,Kampong Baong,BJ1424
+245,Brunei-Muara,Mukim Lumapas,Kampong Buang Sakar,BJ1924
+249,Brunei-Muara,Mukim Lumapas,Kampong Buang Tekurok ,BJ2924
+244,Brunei-Muara,Mukim Lumapas,Kampong Kasat,BJ1724
+253,Brunei-Muara,Mukim Lumapas,Kampong Kelugus,BJ3924
+,Brunei-Muara,Mukim Lumapas,Kampong Lumapas ' B',BJ3524
+,Brunei-Muara,Mukim Lumapas,Kampong Lumapas 'A',BJ3324
+248,Brunei-Muara,Mukim Lumapas,Kampong Lupak Luas,BJ2524
+252,Brunei-Muara,Mukim Lumapas,Kampong Panchor,BJ3724
+242,Brunei-Muara,Mukim Lumapas,Kampong Putat,BJ1324
+1600,Brunei-Muara,Mukim Lumapas,Kampong Sungai Asam,BJ2724
+246,Brunei-Muara,Mukim Lumapas,Kampong Tarap Bau,BJ2124
+312,Brunei-Muara,Mukim Mentiri,Kampong Batu Marang,BU1529
+314,Brunei-Muara,Mukim Mentiri,Kampong Mentiri,BU1929
+313,Brunei-Muara,Mukim Mentiri,Kampong Panchor,BU1729
+317,Brunei-Muara,Mukim Mentiri,Kampong Pengkalan Sibabau,BU2529
+309,Brunei-Muara,Mukim Mentiri,Kampong Salar,BU1429
+310,Brunei-Muara,Mukim Mentiri,Kampong Sungai Buloh ,BU1229
+308,Brunei-Muara,Mukim Mentiri,Kampong Tanah Jambu,BU1129
+315,Brunei-Muara,Mukim Mentiri,Perumahan Negara  Mentiri Kawasan A,BU2129
+1616,Brunei-Muara,Mukim Mentiri,Perumahan Negara Mentiri Kawasan B,BU2229
+229,Brunei-Muara,Mukim Pengkalan Batu,Kampong Batang Perhentian,BH1523
+236,Brunei-Muara,Mukim Pengkalan Batu,Kampong Batong,BH2923
+228,Brunei-Muara,Mukim Pengkalan Batu,Kampong Batu Ampar,BH1323
+238,Brunei-Muara,Mukim Pengkalan Batu,Kampong Bebatik ,BH3223
+240,Brunei-Muara,Mukim Pengkalan Batu,Kampong Bebuloh,BH3323
+230,Brunei-Muara,Mukim Pengkalan Batu,Kampong Bukit Belimbing,BH1723
+1601,Brunei-Muara,Mukim Pengkalan Batu,Kampong Imang,BH3423
+232,Brunei-Muara,Mukim Pengkalan Batu,Kampong Junjongan,BH2123
+231,Brunei-Muara,Mukim Pengkalan Batu,Kampong Kuala Lurah,BH1923
+233,Brunei-Muara,Mukim Pengkalan Batu,Kampong Limau Manis,BH2323
+235,Brunei-Muara,Mukim Pengkalan Batu,Kampong Masin,BH2723
+237,Brunei-Muara,Mukim Pengkalan Batu,Kampong Panchor Murai,BH3123
+1602,Brunei-Muara,Mukim Pengkalan Batu,Kampong Parit,BH1223
+227,Brunei-Muara,Mukim Pengkalan Batu,Kampong Pengkalan Batu,BH1123
+234,Brunei-Muara,Mukim Pengkalan Batu,Kampong Wasan,BH2523
+,Brunei-Muara,Mukim Saba,Kampong Saba Darat 'A',BR1326
+,Brunei-Muara,Mukim Saba,Kampong Saba Darat 'B',BR1526
+291,Brunei-Muara,Mukim Saba,Kampong Saba Laut,BR1126
+295,Brunei-Muara,Mukim Saba,Kampong Saba Tengah,BR1926
+294,Brunei-Muara,Mukim Saba,Kampong Saba Ujong,BR1726
+225,Brunei-Muara,Mukim Sengkurong,Kampong Jerudong,BG3122
+223,Brunei-Muara,Mukim Sengkurong,Kampong Katimahar,BG2721
+222,Brunei-Muara,Mukim Sengkurong,Kampong Kulapis,BG2521
+224,Brunei-Muara,Mukim Sengkurong,Kampong Lugu,BG2921
+220,Brunei-Muara,Mukim Sengkurong,Kampong Mulaut,BG2121
+226,Brunei-Muara,Mukim Sengkurong,Kampong Peninjau,BG3522
+218,Brunei-Muara,Mukim Sengkurong,Kampong Selayun,BG1721
+,Brunei-Muara,Mukim Sengkurong,Kampong Sengkurong 'A',BG1121
+,Brunei-Muara,Mukim Sengkurong,Kampong Sengkurong 'B',BG1321
+217,Brunei-Muara,Mukim Sengkurong,Kampong Tagap,BG1521
+221,Brunei-Muara,Mukim Sengkurong,Kampong Tanjong Nangka,BG2321
+216,Brunei-Muara,Mukim Sengkurong,Kg Pasai,BG1221
+302,Brunei-Muara,Mukim Serasa,Kampong Kapok,BT2328
+303,Brunei-Muara,Mukim Serasa,Kampong Meragang,BT2728
+297,Brunei-Muara,Mukim Serasa,Kampong Pelumpong,BT1328
+301,Brunei-Muara,Mukim Serasa,Kampong Sabun,BT2128
+299,Brunei-Muara,Mukim Serasa,Kampong Serasa,BT1728
+296,Brunei-Muara,Mukim Serasa,Pekan Muara,BT1128
+,Brunei-Muara,Mukim Sungai Kebun,Kampong Bolkiah 'A',BK1125
+,Brunei-Muara,Mukim Sungai Kebun,Kampong Bolkiah 'B',BK1325
+256,Brunei-Muara,Mukim Sungai Kebun,Kampong Setia A,BK1525
+257,Brunei-Muara,Mukim Sungai Kebun,Kampong Setia B,BK1725
+260,Brunei-Muara,Mukim Sungai Kebun,Kampong Sungai Kebun,BK2325
+258,Brunei-Muara,Mukim Sungai Kebun,Kampong Sungai Siamas,BK1925
+259,Brunei-Muara,Mukim Sungai Kebun,Kampong Ujong Kelinik,BK2125
+278,Brunei-Muara,Mukim Sungai Kedayan,Kampong Bukit Salat,BN1311
+282,Brunei-Muara,Mukim Sungai Kedayan,Kampong Kuala Peminyak,BN2111
+283,Brunei-Muara,Mukim Sungai Kedayan,Kampong Pemancha Lama,BN2311
+277,Brunei-Muara,Mukim Sungai Kedayan,Kampong Sumbiling Lama ,BN1111
+,Brunei-Muara,Mukim Sungai Kedayan,Kampong Sungai Kedayan 'A',BK1711
+,Brunei-Muara,Mukim Sungai Kedayan,Kampong Sungai Kedayan 'B',BK1511
+281,Brunei-Muara,Mukim Sungai Kedayan,Kampong Ujong Tanjong,BN1911
+262,Brunei-Muara,Mukim Tamoi,Kampong Limbongan,BL1312
+263,Brunei-Muara,Mukim Tamoi,Kampong Pengiran Bendahara Lama,BL1512
+264,Brunei-Muara,Mukim Tamoi,Kampong Pengiran Kerma Indera Lama,BL1712
+265,Brunei-Muara,Mukim Tamoi,Kampong Pengiran Tajudin Hitam,BL1912
+266,Brunei-Muara,Mukim Tamoi,Kampong Tamoi Tengah,BL2112
+267,Brunei-Muara,Mukim Tamoi,Kampong Tamoi Ujong,BL2312
+261,Brunei-Muara,Mukim Tamoi,Kampong Ujong Bukit,BL1112
+117,Temburong,Daerah Temburong,Peti Surat Persendirian (Pejabat Pos Bangar),PA1351
+,Temburong,Mukim Amo,Kampong Amo,PD1151
+545,Temburong,Mukim Amo,Kampong Batang Duri,PD1951
+1653,Temburong,Mukim Amo,Kampong Belaban,PD2451
+548,Temburong,Mukim Amo,Kampong Biang ,PD2551
+547,Temburong,Mukim Amo,Kampong Parit,PD2351
+549,Temburong,Mukim Amo,Kampong Selangan,PD2751
+550,Temburong,Mukim Amo,Kampong Sibulu,PD2951
+546,Temburong,Mukim Amo,Kampong Sibut,PD2151
+1652,Temburong,Mukim Amo,Kampong Sumbiling Baru,PD1851
+544,Temburong,Mukim Amo,Kampong Sumbiling Lama,PD1751
+517,Temburong,Mukim Bangar,Kampong Bang Bulan,PA2951
+519,Temburong,Mukim Bangar,Kampong Batang Tuau,PA3351
+1647,Temburong,Mukim Bangar,Kampong Batu Bejarah,PA2451
+518,Temburong,Mukim Bangar,Kampong Belingos,PA3151
+1649,Temburong,Mukim Bangar,Kampong Lagau,PA3451
+511,Temburong,Mukim Bangar,Kampong Menengah,PA1751
+515,Temburong,Mukim Bangar,Kampong Parit Balayang,PA2551
+521,Temburong,Mukim Bangar,Kampong Puni,PA3751
+516,Temburong,Mukim Bangar,Kampong Semamang,PA2751
+520,Temburong,Mukim Bangar,Kampong Seri Tanjong Belayang,PA3551
+1648,Temburong,Mukim Bangar,Kampong Subok,PA2851
+512,Temburong,Mukim Bangar,Kampong Sungai Sulok,PA1951
+514,Temburong,Mukim Bangar,Kampong Sungai Tanam,PA2351
+513,Temburong,Mukim Bangar,Kampong Sungai Tanit,PA2151
+522,Temburong,Mukim Bangar,Kampong Ujong Jalan,PA3951
+509,Temburong,Mukim Bangar,Pekan Bangar ,PA1351
+508,Temburong,Mukim Bangar,Pekan Bangar Lama,PA1151
+528,Temburong,Mukim Batu Apoi,Kampong Batu Apoi,PC1151
+532,Temburong,Mukim Batu Apoi,Kampong Gadong Baru,PC1951
+536,Temburong,Mukim Batu Apoi,Kampong Lakiun,PC2751
+538,Temburong,Mukim Batu Apoi,Kampong Lamaling,PC3151
+533,Temburong,Mukim Batu Apoi,Kampong Luagan,PC2151
+534,Temburong,Mukim Batu Apoi,Kampong Negalang Ering,PC2351
+535,Temburong,Mukim Batu Apoi,Kampong Negalang Unat,PC2551
+530,Temburong,Mukim Batu Apoi,Kampong Peliunan,PC1551
+540,Temburong,Mukim Batu Apoi,Kampong Sekurop,PC3551
+539,Temburong,Mukim Batu Apoi,Kampong Selapon,PC3351
+1650,Temburong,Mukim Batu Apoi,Kampong Simbatang,PC3251
+529,Temburong,Mukim Batu Apoi,Kampong Sungai Radang,PC1351
+537,Temburong,Mukim Batu Apoi,Kampong Tanjong Bungar,PC2951
+1651,Temburong,Mukim Batu Apoi,Kampung Rebada,PC3451
+560,Temburong,Mukim Bokok,Kampong Bakarat,PE2351
+555,Temburong,Mukim Bokok,Kampong Belais Besar,PE1351
+556,Temburong,Mukim Bokok,Kampong Belais Kecil,PE1551
+558,Temburong,Mukim Bokok,Kampong Bokok,PE1951
+554,Temburong,Mukim Bokok,Kampong Buda-Buda,PE1151
+565,Temburong,Mukim Bokok,Kampong Kenua,PE3351
+566,Temburong,Mukim Bokok,Kampong Lepong Baru,PE3551
+559,Temburong,Mukim Bokok,Kampong Maniup,PE2151
+557,Temburong,Mukim Bokok,Kampong Paya Bagangan,PE1751
+563,Temburong,Mukim Bokok,Kampong Perpindahan Rataie,PE2951
+564,Temburong,Mukim Bokok,Kampong Rakyat Jati,PE3151
+562,Temburong,Mukim Bokok,Kampong Rataie,PE2751
+569,Temburong,Mukim Bokok,Kampong Semabat,PE4151
+561,Temburong,Mukim Bokok,Kampong Simbatang,PE2551
+570,Temburong,Mukim Bokok,Kampong Temada,PE4351
+523,Temburong,Mukim Labu,Kampong Labu Estate,PB1151
+525,Temburong,Mukim Labu,Kampong Piasau-Piasau,PB1551
+524,Temburong,Mukim Labu,Kampong Senukoh,PB1351
+113,Kuala-Belait,Daerah Belait,Peti Surat Persendirian (Pejabat Pos Kuala Belait),KA1131
+115,Kuala-Belait,Daerah Belait,Peti Surat Persendirian (Pejabat Pos Labi),KE2737
+114,Kuala-Belait,Daerah Belait,Peti Surat Persendirian (Pejabat Pos Seria),KB1133
+116,Kuala-Belait,Daerah Belait,Peti Surat Persendirian Brunei Shell Petroleum,KB3534
+36,Kuala-Belait,Kementerian Hal Ehwal Dalam Negeri,Jabatan Daerah Kuala Belait,KA1131
+378,Kuala-Belait,Mukim Bukit Sawat,Kampong Bisut,KF1338
+382,Kuala-Belait,Mukim Bukit Sawat,Kampong Bukit Kandol,KF2138
+381,Kuala-Belait,Mukim Bukit Sawat,Kampong Bukit Sawat,KF1938
+395,Kuala-Belait,Mukim Bukit Sawat,Kampong Merangking,KF4738
+388,Kuala-Belait,Mukim Bukit Sawat,Kampong Merangking Hilir,KF3338
+387,Kuala-Belait,Mukim Bukit Sawat,Kampong Merangking Ulu,KF3138
+391,Kuala-Belait,Mukim Bukit Sawat,Kampong Pengkalan Siong,KF3938
+394,Kuala-Belait,Mukim Bukit Sawat,Kampong Pulau Apil,KF4538
+377,Kuala-Belait,Mukim Bukit Sawat,Kampong Sungai Mau,KF1138
+390,Kuala-Belait,Mukim Bukit Sawat,Kampong Tarap,KF3738
+1627,Kuala-Belait,Mukim Kuala Balai,Kampong Kajitan,KD2332
+359,Kuala-Belait,Mukim Kuala Balai,Kampong Kuala Balai,KD1132
+1631,Kuala-Belait,Mukim Kuala Balai,Kampong Lubuk Lanyap,KD3132
+1630,Kuala-Belait,Mukim Kuala Balai,Kampong Lubuk Tapang,KD2932
+1626,Kuala-Belait,Mukim Kuala Balai,Kampong Pengalayan,KD2132
+1629,Kuala-Belait,Mukim Kuala Balai,Kampong Penyarap,KD2732
+361,Kuala-Belait,Mukim Kuala Balai,Kampong Sungai Damit,KD1532
+1633,Kuala-Belait,Mukim Kuala Balai,Kampong Sungai Lutong,KD3532
+360,Kuala-Belait,Mukim Kuala Balai,Kampong Tanjung Ranggas,KD1732
+1632,Kuala-Belait,Mukim Kuala Balai,Kampong Tanjung Sudai,KD3332
+1625,Kuala-Belait,Mukim Kuala Balai,Kampong Tugong,KD1932
+1628,Kuala-Belait,Mukim Kuala Balai,Kampung Sungai Mendaram,KD2532
+320,Kuala-Belait,Mukim Kuala Belait,Kampong Mumong A,KA1531
+321,Kuala-Belait,Mukim Kuala Belait,Kampong Mumong Selatan,KA1731
+322,Kuala-Belait,Mukim Kuala Belait,Kampong Pandan A,KA1931
+326,Kuala-Belait,Mukim Kuala Belait,Kampong Pandan B,KA2931
+323,Kuala-Belait,Mukim Kuala Belait,Kampong Pandan C,KA2131
+325,Kuala-Belait,Mukim Kuala Belait,Kampong Sungai Melilit,KA2731
+328,Kuala-Belait,Mukim Kuala Belait,Kampong Sungai Teraban,KA3331
+318,Kuala-Belait,Mukim Kuala Belait,Pekan Kuala Belait,KA1131
+362,Kuala-Belait,Mukim Labi,Kampong Bukit Puan,KE1137
+369,Kuala-Belait,Mukim Labi,Kampong Gatas,KE2537
+370,Kuala-Belait,Mukim Labi,Kampong Kenapol,KE2737
+375,Kuala-Belait,Mukim Labi,Kampong Labi Lama,KE3737
+373,Kuala-Belait,Mukim Labi,Kampong Rampayoh,KE4537
+367,Kuala-Belait,Mukim Labi,Kampong Ratan,KE2137
+374,Kuala-Belait,Mukim Labi,Kampong Simpang Tiga,KE4337
+363,Kuala-Belait,Mukim Labi,Kampong Sungai Petai,KE1337
+366,Kuala-Belait,Mukim Labi,Kampong Tanajor,KE1937
+365,Kuala-Belait,Mukim Labi,Kampong Tapang Lupak,KE1737
+376,Kuala-Belait,Mukim Labi,Kampong Teraja,KE3937
+372,Kuala-Belait,Mukim Labi,Kampong Terawan,KE3137
+368,Kuala-Belait,Mukim Labi,Kampong Terunan,KE2337
+1617,Kuala-Belait,Mukim Liang,Kampong Agis-Agis,KC3335
+350,Kuala-Belait,Mukim Liang,Kampong Andaulau,KC1535
+351,Kuala-Belait,Mukim Liang,Kampong Keluyoh,KC1735
+355,Kuala-Belait,Mukim Liang,Kampong Lilas,KC2535
+1622,Kuala-Belait,Mukim Liang,Kampong Lumut,KC4335
+1621,Kuala-Belait,Mukim Liang,Kampong Lumut Tersusun,KC4135
+352,Kuala-Belait,Mukim Liang,Kampong Perumpong,KC1935
+1623,Kuala-Belait,Mukim Liang,Kampong Sungai Bakong,KC4535
+349,Kuala-Belait,Mukim Liang,Kampong Sungai Gana,KC1335
+1618,Kuala-Belait,Mukim Liang,Kampong Sungai Lalit,KC3535
+348,Kuala-Belait,Mukim Liang,Kampong Sungai Liang,KC1135
+1624,Kuala-Belait,Mukim Liang,Kampong Sungai Taring,KC4735
+356,Kuala-Belait,Mukim Liang,Kampong Tunggulian,KC2735
+1619,Kuala-Belait,Mukim Liang,Kampung Sungai Kang,KC3735
+1620,Kuala-Belait,Mukim Liang,Kampung Sungai Kuru,KC3935
+407,Kuala-Belait,Mukim Melilas,Kampong Bang Garang,KH1739
+405,Kuala-Belait,Mukim Melilas,Kampong Bukit Tuding,KH1939
+406,Kuala-Belait,Mukim Melilas,Kampong Melilas,KH1339
+342,Kuala-Belait,Mukim Seria,Ibu Pejabat Shell,KB3533
+335,Kuala-Belait,Mukim Seria,Kampong  Badas,KB2133
+336,Kuala-Belait,Mukim Seria,Kampong Anduki,KB2333
+332,Kuala-Belait,Mukim Seria,Kampong Lorong Tiga Selatan,KB1533
+347,Kuala-Belait,Mukim Seria,Kampong Panaga,KB4533
+337,Kuala-Belait,Mukim Seria,Kampong Perumahan Lorong Tengah Seria,KB2533
+334,Kuala-Belait,Mukim Seria,Kampong Sungai Bera,KB1933
+330,Kuala-Belait,Mukim Seria,Pekan Seria Kawasan 1,KB1133
+331,Kuala-Belait,Mukim Seria,Pekan Seria Kawasan 2,KB4733
+396,Kuala-Belait,Mukim Sukang,Kampong Apak-Apak,KG1139
+401,Kuala-Belait,Mukim Sukang,Kampong Dungun,KG2139
+399,Kuala-Belait,Mukim Sukang,Kampong Kukub,KG1739
+400,Kuala-Belait,Mukim Sukang,Kampong Sukang,KG1939
+402,Kuala-Belait,Mukim Sukang,Kampong Sungai Hilir,KG2339
+112,Tutong,Daerah Tutong,Peti Surat Persendirian (Pejabat Pos Lamunin),TG2345
+111,Tutong,Daerah Tutong,Peti Surat Persendirian (Pejabat Pos Telisai),TC1145
+110,Tutong,Daerah Tutong,Peti Surat Persendirian (Pejabat Pos Tutong),TA1141
+33,Tutong,Kementerian Hal Ehwal Dalam Negeri,Jabatan Bandaran (Kuala Belait),KA1131
+34,Tutong,Kementerian Hal Ehwal Dalam Negeri,Jabatan Bandaran (Tutong),TA1141
+422,Tutong,Mukim Keriam,Kampong Bukit Panggal,TB1341
+432,Tutong,Mukim Keriam,Kampong Ikas,TB3341
+421,Tutong,Mukim Keriam,Kampong Keriam,TB1141
+430,Tutong,Mukim Keriam,Kampong Kupang,TB2941
+423,Tutong,Mukim Keriam,Kampong Luangan Dudok,TB1541
+431,Tutong,Mukim Keriam,Kampong Maraburong ,TB3141
+424,Tutong,Mukim Keriam,Kampong Sinaut,TB1741
+429,Tutong,Mukim Keriam,Kampong Sungai Kelugos,TB2741
+452,Tutong,Mukim Kiudang,Kampong Bakiau,TE1143
+459,Tutong,Mukim Kiudang,Kampong Batang Mitus,TE2543
+457,Tutong,Mukim Kiudang,Kampong Birau,TE2143
+460,Tutong,Mukim Kiudang,Kampong Kebia,TE2743
+454,Tutong,Mukim Kiudang,Kampong Kiudang,TE1543
+458,Tutong,Mukim Kiudang,Kampong Luangan Timbaran,TE2343
+455,Tutong,Mukim Kiudang,Kampong Mungkom,TE1743
+456,Tutong,Mukim Kiudang,Kampong Pad Nunok,TE1943
+453,Tutong,Mukim Kiudang,Kampong Pengkalan Mau,TE1343
+489,Tutong,Mukim Lamunin,Kampong Bintudoh,TG2943
+491,Tutong,Mukim Lamunin,Kampong Biong,TG3343
+1645,Tutong,Mukim Lamunin,Kampong Bukit Bang Dalam,TG3543
+1646,Tutong,Mukim Lamunin,Kampong Bukit Barun,TG3743
+488,Tutong,Mukim Lamunin,Kampong Bukit Sulang,TG2743
+481,Tutong,Mukim Lamunin,Kampong Kuala Abang,TG1343
+486,Tutong,Mukim Lamunin,Kampong Lamunin,TG2343
+480,Tutong,Mukim Lamunin,Kampong Layong,TG1143
+1644,Tutong,Mukim Lamunin,Kampong Menengah,TG2843
+490,Tutong,Mukim Lamunin,Kampong Panchung,TG3143
+409,Tutong,Mukim Pekan Tutong,Bukit Bendera,TA1341
+1634,Tutong,Mukim Pekan Tutong,Kampong Kandang,TA3741
+419,Tutong,Mukim Pekan Tutong,Kampong Kuala Tutong,TA3341
+413,Tutong,Mukim Pekan Tutong,Kampong Panchor Dulit,TA2141
+412,Tutong,Mukim Pekan Tutong,Kampong Panchor Papan,TA1941
+420,Tutong,Mukim Pekan Tutong,Kampong Penabai,TA3541
+416,Tutong,Mukim Pekan Tutong,Kampong Penanjong,TA2741
+411,Tutong,Mukim Pekan Tutong,Kampong Petani,TA1741
+414,Tutong,Mukim Pekan Tutong,Kampong Sengkarai,TA2341
+415,Tutong,Mukim Pekan Tutong,Kampong Serambangun,TA2541
+417,Tutong,Mukim Pekan Tutong,Kampong Tanah Burok,TA2941
+1635,Tutong,Mukim Pekan Tutong,Paya Pekan Tutong,TA3941
+418,Tutong,Mukim Pekan Tutong,Tutong Kem,TA3141
+506,Tutong,Mukim Rambai,Kampong Bedawan,TH3949
+507,Tutong,Mukim Rambai,Kampong Belabau,TH4149
+495,Tutong,Mukim Rambai,Kampong Benutan,TH1749
+494,Tutong,Mukim Rambai,Kampong Kuala Ungar,TH1549
+505,Tutong,Mukim Rambai,Kampong Lalipo,TH3749
+493,Tutong,Mukim Rambai,Kampong Merimbun,TH1349
+492,Tutong,Mukim Rambai,Kampong Rambai,TH1149
+502,Tutong,Mukim Rambai,Kampong Supon Besar,TH3149
+504,Tutong,Mukim Rambai,Kampong Supon Kecil,TH3549
+449,Tutong,Mukim Tanjong Maya,Kampong  Pemadang,TD1941
+447,Tutong,Mukim Tanjong Maya,Kampong Banggunggos,TD1541
+1640,Tutong,Mukim Tanjong Maya,Kampong Bukit Sibut,TD2741
+450,Tutong,Mukim Tanjong Maya,Kampong Bukit Udal,TD2341
+1641,Tutong,Mukim Tanjong Maya,Kampong Liulon,TD2941
+451,Tutong,Mukim Tanjong Maya,Kampong Lubok Pulau,TD2541
+1642,Tutong,Mukim Tanjong Maya,Kampong Padang,TD3141
+448,Tutong,Mukim Tanjong Maya,Kampong Penapar ,TD1741
+446,Tutong,Mukim Tanjong Maya,Kampong Sebakit,TD1341
+445,Tutong,Mukim Tanjong Maya,Kampong Tanjong Maya,TD1141
+1643,Tutong,Mukim Tanjong Maya,Kampong Tanjong Panjang,TD3341
+1636,Tutong,Mukim Telisai,Kampong Binchaya,TC3545
+443,Tutong,Mukim Telisai,Kampong Bukit Beruang,TC3145
+439,Tutong,Mukim Telisai,Kampong Danau,TC2345
+441,Tutong,Mukim Telisai,Kampong Keramut,TC2745
+434,Tutong,Mukim Telisai,Kampong Negara Telisai,TC1345
+1637,Tutong,Mukim Telisai,Kampong Pangkalan Dalai,TC3745
+440,Tutong,Mukim Telisai,Kampong Penapar Danau,TC2545
+438,Tutong,Mukim Telisai,Kampong Sungai Paku,TC2145
+435,Tutong,Mukim Telisai,Kampong Telamba,TC1545
+433,Tutong,Mukim Telisai,Kampong Telisai,TC1145
+442,Tutong,Mukim Telisai,Kampong Tumpuan Ugas,TC2945
+1639,Tutong,Mukim Telisai,Kampung Bukit Pasir,TC4145
+1638,Tutong,Mukim Telisai,Kampung Penyatang,TC3945
+444,Tutong,Mukim Telisai,Perumahan Negara Bukit Beruang,TC3345
+471,Tutong,Mukim Ukong,Kampong Bukit,TF3147
+479,Tutong,Mukim Ukong,Kampong Long Mayan,TF4747
+470,Tutong,Mukim Ukong,Kampong Pak Bidang,TF2947
+,Tutong,Mukim Ukong,Kampong Pengkalan Ra'an,TF1347
+466,Tutong,Mukim Ukong,Kampong Sungai Damit Pemadang,TF2147
+461,Tutong,Mukim Ukong,Kampong Ukong,TF1147
+3,Government Departments,Jabatan Perdana Menteri,Adat Istiadat Negara,BS8610
+2,Government Departments,Jabatan Perdana Menteri,JPM (Bangunan Setiausaha Kerajaan),BS8610
+1,Government Departments,Jabatan Perdana Menteri,JPM (Istana Nurul Iman),BA1000
+32,Government Departments,Kementerian Hal Ehwal Dalam Negeri,Jabatan Bandaran (Bandar Seri Begawan),BS8810
+41,Government Departments,Kementerian Hal Ehwal Dalam Negeri,Jabatan Buruh,BB3910
+38,Government Departments,Kementerian Hal Ehwal Dalam Negeri,Jabatan Daerah Temburong,PA1351
+37,Government Departments,Kementerian Hal Ehwal Dalam Negeri,Jabatan Daerah Tutong,TA1141
+39,Government Departments,Kementerian Hal Ehwal Dalam Negeri,Jabatan Imigresen dan Pendaftaran,BB3910
+42,Government Departments,Kementerian Hal Ehwal Dalam Negeri,Jabatan Penjara,BG3122
+40,Government Departments,Kementerian Hal Ehwal Dalam Negeri,Jabatan Perkhidmatan Bomba,BB3510
+31,Government Departments,Kementerian Hal Ehwal Dalam Negeri,Kementerian Hal Ehwal Dalam Negeri,BS8610
+21,Government Departments,Kementerian Hal Ehwal Luar Negeri,Kementerian Hal Ehwal Luar Negeri,BD2710
+22,Government Departments,Kementerian Hal Ehwal Luar Negeri,Pusat Persidangan Antarabangsa,BB3910
+67,Government Departments,Kementerian Hal Ehwal Ugama,Institut Pengajian Islam Brunei Darussalam,BA1712
+69,Government Departments,Kementerian Hal Ehwal Ugama,Jabatan Hal Ehwal Masjid,BA2110
+65,Government Departments,Kementerian Hal Ehwal Ugama,Jabatan Hal Ehwal Syariah,BS8510
+68,Government Departments,Kementerian Hal Ehwal Ugama,Jabatan Urusan Haji,BA2110
+63,Government Departments,Kementerian Hal Ehwal Ugama,Kementerian Hal Ehwal Ugama,BB3910
+70,Government Departments,Kementerian Hal Ehwal Ugama,Pejabat Kadi Besar,BS8510
+66,Government Departments,Kementerian Hal Ehwal Ugama,Pejabat Pengajian Islam,BD1310
+64,Government Departments,Kementerian Hal Ehwal Ugama,Pusat Dakwah Islamiah,BB4310
+87,Government Departments,Kementerian Kesihatan,Hospital Ripas,BA1710
+86,Government Departments,Kementerian Kesihatan,Jabatan Perubatan dan Kesihatan,BB3510
+85,Government Departments,Kementerian Kesihatan,Kementerian Kesihatan,BB3910
+26,Government Departments,Kementerian Kewangan,Agensi Pelaburan Brunei,BS8610
+24,Government Departments,Kementerian Kewangan,Jabatan Perbendaharaan,BS8610
+29,Government Departments,Kementerian Kewangan,Jabatan Teknologi Maklumat dan Stor Negara,BE1110
+27,Government Departments,Kementerian Kewangan,Kastam dan Eksais Diraja,BS8810
+23,Government Departments,Kementerian Kewangan,Kementerian Kewangan,BS8710
+25,Government Departments,Kementerian Kewangan,Lembaga Mata Wang,BS8610
+28,Government Departments,Kementerian Kewangan,Perancangan dan Kemajuan Ekonomi,BS8710
+30,Government Departments,Kementerian Kewangan,Tabung Amanah Pekerja,BS8710
+73,Government Departments,Kementerian Pembangunan,Jabatan Kemajuan Perumahan,BB3510
+74,Government Departments,Kementerian Pembangunan,Jabatan Kerja Raya,BB3510
+75,Government Departments,Kementerian Pembangunan,Jabatan Perancangan Bandar Dan Desa,BB3510
+72,Government Departments,Kementerian Pembangunan,Jabatan Perkhidmatan Eletrik,BB3510
+71,Government Departments,Kementerian Pembangunan,Kementerian Pembangunan,BB3510
+76,Government Departments,Kementerian Pembangunan,Pejabat Tanah,BB3510
+77,Government Departments,Kementerian Pembangunan,Pejabat Ukur,BB3510
+51,Government Departments,Kementerian Pendidikan,Jabatan Kenaziran Sekolah-Sekolah,BB3510
+46,Government Departments,Kementerian Pendidikan,Jabatan Kurikulum,BE1310
+49,Government Departments,Kementerian Pendidikan,Jabatan Pendidikan Teknik,BE1310
+44,Government Departments,Kementerian Pendidikan,Jabatan Pentadbiran dan Perkhidmatan-Perkidmatan,BB3510
+45,Government Departments,Kementerian Pendidikan,Jabatan Peperiksaan,BB3510
+47,Government Departments,Kementerian Pendidikan,Jabatan Perancangan dan Pemeliharaan Bangunan dan Kawasan,BB3510
+50,Government Departments,Kementerian Pendidikan,Jabatan Perkembangan Kurikulum,BS8410
+48,Government Departments,Kementerian Pendidikan,Jabatan Sekolah-Sekolah,BB3510
+43,Government Departments,Kementerian Pendidikan,Kementerian Pendidikan,BB3510
+52,Government Departments,Kementerian Pendidikan,Universiti Brunei Darussalam,BE1410
+89,Government Departments,Kementerian Perhubungan,Jabatan Laut,BT1728
+90,Government Departments,Kementerian Perhubungan,Jabatan Pelabuhan-Pelabuhan,BT1728
+93,Government Departments,Kementerian Perhubungan,Jabatan Penerbangan Awan,BB2513
+92,Government Departments,Kementerian Perhubungan,Jabatan Pengangkutan Darat,BE1110
+94,Government Departments,Kementerian Perhubungan,Jabatan Perkhidmatan Pos,BB3510
+91,Government Departments,Kementerian Perhubungan,Jabatan Telekom,BB3510
+88,Government Departments,Kementerian Perhubungan,Kementerian Perhubungan,BB3510
+59,Government Departments,Kementerian Perindustrian Dan Sumber-Sumber Utama,Badan Kemajuan Industri Brunei (BINA),BB3910
+61,Government Departments,Kementerian Perindustrian Dan Sumber-Sumber Utama,Jabatan Perhutanan,BB3910
+62,Government Departments,Kementerian Perindustrian Dan Sumber-Sumber Utama,Jabatan Perikanan,BB3910
+60,Government Departments,Kementerian Perindustrian Dan Sumber-Sumber Utama,Jabatan Pertanian,BB3510
+57,Government Departments,Kementerian Perindustrian Dan Sumber-Sumber Utama,Kementerian Perindustrian Dan Sumber-Sumber Utama,BB3910
+58,Government Departments,Kementerian Perindustrian Dan Sumber-Sumber Utama,Semaun Holdings,BB3910
+19,Government Departments,Kementerian Pertahanan,Angkatan Bersenjata DiRaja Brunei,BB3510
+20,Government Departments,Kementerian Pertahanan,Unit Gurkha Simpanan,BD2917
+54,Government Departments,Kementerian Undang-Undang,Jabatan Kehakiman,BA1910
+56,Government Departments,Kementerian Undang-Undang,Jabatan Percetakan,BB3510
+55,Government Departments,Kementerian Undang-Undang,Jabatan Undang-Undang,BA1910
+53,Government Departments,Kementerian Undang-Undang,Kementerian Undang-Undang,BA1910
