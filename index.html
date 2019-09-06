@@ -16,6 +16,28 @@
     </ul>
     <p>JSON file: <a href="brunei_kampung.json" target="_blank" rel="noopener noreferrer">brunei_kampung.json</a></p>
     <p>XLSX file: <a href="Brunei_Kampung_Mukim_Daerah_List.xlsx" target="_blank" rel="noopener noreferrer">Brunei_Kampung_Mukim_Daerah_List</a></p>
+
+    <h2>How to use:</h2>
+    <p>There are no other methods than <strong>GET</strong>. </p>
+    <p>HTTP Response</p>
+    <code>
+        GET /brunei_kampung.json HTTP/1.1 <br>
+        Host: brunei-kampung.netlify.com<br>
+        Accept: */*<br>
+        Cache-Control: no-cache<br>
+        Host: brunei-kampung.netlify.com<br>
+        Accept-Encoding: gzip, deflate<br>
+        Connection: keep-alive<br>
+        cache-control: no-cache<br>
+    </code>
+    <p>With cURL</p>
+    <code>
+        curl -X GET \<br>
+        https://brunei-kampung.netlify.com/brunei_kampung.json \<br>
+        -H 'Host: brunei-kampung.netlify.com' \<br>
+        -H 'cache-control: no-cache'<br>
+    </code>
+    
     <br>
     <p>Fork this on <a href="http://www.github.com/Qoyyuum/Brunei-Kampung">Github</a>. Feel free to contribute. No license.</p>
 </body>
