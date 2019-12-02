@@ -10,14 +10,14 @@ There is no other methods than **GET**
 
 ### With cURL
 
-`curl https://brunei-kampung.netlify.com/brunei-kampung.json`
+`curl https://brunei-kampung.netlify.com/brunei_kampung.json`
 
 ### With Python3 Requests
 
 ```python
 import requests
 
-url = "https://brunei-kampung.netlify.com/brunei-kampung.json"
+url = "https://brunei-kampung.netlify.com/brunei_kampung.json"
 response = requests.get(url)
 ```
 
@@ -27,6 +27,6 @@ Feel free to fork and contribute. This little sideproject has no license so you 
 
 ## Credits
 
-Thanks to [Brunei Post Office](www.post.gov.bn) for the data.
+Thanks to [Brunei Post Office](http://www.post.gov.bn) for the data.
 
 Thanks to [Tim @TheWheat](https://gist.github.com/thewheat/560e3b60d0ea2be1c4dd8d95fa37d33d) for manually grabbing all of the postcodes.
