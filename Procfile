@@ -1,1 +1,1 @@
-web: gunicorn app:tulus
+web: gunicorn tulus:create_app

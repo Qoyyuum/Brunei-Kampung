@@ -8,7 +8,6 @@ def create_app(test_config=None):
 	app = Flask(__name__, instance_relative_config=True)
 	app.config.from_mapping(
 		SECRET_KEY='dev',
-		DATABASE=os.path.join(app.instance_path, 'flaskr.sqlite'),
 	)
 
 	if test_config is None:
@@ -18,17 +17,14 @@ def create_app(test_config=None):
 		# load the test config if passed in
 		app.config.from_mapping(test_config)
 
-	# ensure the instance folder exists
-	try:
-		os.makedirs(app.instance_path)
-	except OSError:
-		pass
-
 	@app.route('/')
 	def hello():
 		return render_template("index.html")
 
-	from . import tulus
-	app.register_blueprint(tulus.bp)
+	from . import api
+	app.register_blueprint(api.bp)
 
 	return app
+
+if __name__ == '__main__':
+	create_app()

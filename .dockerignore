@@ -1,2 +1,4 @@
-CNAME
-README.md
+**
+!Pipfile
+!Pipfile.lock
+!tulus/
