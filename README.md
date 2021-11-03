@@ -6,19 +6,69 @@ I've done this project several times before when building Brunei systems and I k
 
 ## How to Use
 
-There is no other methods than **GET**
+There is no other methods than **GET**. You can find the full API documentation [here](https://documenter.getpostman.com/view/1580936/UVBzpAZ7)
 
+The API endpoint uses URL chaining and allows partial matching in the following order: `https://tulusbn.herokuapp.com/api/DISTRICT/MUKIM/KAMPONG/POSTCODE`. Each parameter is optional but have to be in that order.
+## Brief examples
 ### With cURL
 
-`curl https://brunei-kampung.netlify.com/brunei_kampung.json`
+```bash
+curl --location --request GET 'https://tulusbn.herokuapp.com/api/Tutong'
+```
+
+
+### cURL Sample Response
+
+```json
+{
+  "response": [
+    {
+      "Code": "TG2345",
+      "District": "Tutong",
+      "Kampong": "Peti Surat Persendirian (Pejabat Pos Lamunin)",
+      "Mukim": "Daerah Tutong",
+      "Number": 112
+    },
+    {
+      "Code": "TC1145",
+      "District": "Tutong",
+      "Kampong": "Peti Surat Persendirian (Pejabat Pos Telisai)",
+      "Mukim": "Daerah Tutong",
+      "Number": 111
+    },
+    ...
+}
+```
 
 ### With Python3 Requests
 
 ```python
 import requests
 
-url = "https://brunei-kampung.netlify.com/brunei_kampung.json"
-response = requests.get(url)
+url = "https://tulusbn.herokuapp.com/api/Temb/Bang/Ujong"
+
+payload={}
+headers = {}
+
+response = requests.request("GET", url, headers=headers, data=payload)
+
+print(response.text)
+```
+
+### Python3 Sample Response
+
+```json
+{
+    "response": [
+        {
+            "Code": "PA3951",
+            "District": "Temburong",
+            "Kampong": "Kampong Ujong Jalan",
+            "Mukim": "Mukim Bangar",
+            "Number": 522
+        }
+    ]
+}
 ```
 
 ## License
