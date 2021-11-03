@@ -1,1 +1,1 @@
-web: gunicorn tulus:create_app
+web: gunicorn "tulus:create_app()"
