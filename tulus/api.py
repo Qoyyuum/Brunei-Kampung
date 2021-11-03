@@ -4,7 +4,7 @@ import json
 from typing import Dict
 from flask import Blueprint, jsonify, request
 
-bp = Blueprint('tulus', __name__, url_prefix='/api')
+bp = Blueprint('api', __name__, url_prefix='/api')
 
 @bp.route('/')
 @bp.route('/<district>', methods=["GET"])
@@ -12,7 +12,7 @@ bp = Blueprint('tulus', __name__, url_prefix='/api')
 @bp.route('/<district>/<mukim>/<kampong>', methods=["GET"])
 @bp.route('/<district>/<mukim>/<kampong>/<postcode>', methods=["GET"])
 def get(district:str=None, mukim:str=None, kampong:str=None, postcode:str=None) -> Dict:
-	with open("Tulus/brunei_kampung.json", "r") as data_file:
+	with open("brunei_kampung.json", "r") as data_file:
 		data=json.load(data_file)
 		if district is not None and district != "search":
 			district_filtered_data = [d for d in data if district in d['District']]
@@ -33,6 +33,6 @@ def get(district:str=None, mukim:str=None, kampong:str=None, postcode:str=None) 
 def wild_search(query):
 	"""To allow developers to wildcard search for anything"""
 	# TODO: Filter the data based on the query against the entire list and all items.
-	with open("Tulus/brunei_kampung.json", "r") as data_file:
+	with open("brunei_kampung.json", "r") as data_file:
 		data=json.load(data_file)
 		return jsonify({'response': data})

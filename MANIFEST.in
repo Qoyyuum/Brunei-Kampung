@@ -1,0 +1,2 @@
+graft tulus/templates
+global-exclude *.pyc
